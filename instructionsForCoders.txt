@@ -1,0 +1,3 @@
+*used a virtual enviornment for downloads
+*cmd: pip freeze to view requirements
+*cmd: pip install -r requirements.txt
